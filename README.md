@@ -12,7 +12,7 @@ A revolutionary way to manage and transact money through WhatsApp by creating di
 ## Description
 This was a project buil for the EthOnline 2023 hackathon. It wond a price by Scroll <br/>
 https://ethglobal.com/showcase/wasup-wallet-kyzze<br/>
-Yo participate in the smart contrac building and inplementacion with the nest.js backend<br/>
+I colaborate in the smart contrac building and inplementacion with the nest.js backend<br/>
 
 ## the proyect
 
