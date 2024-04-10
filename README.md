@@ -10,9 +10,9 @@
 A revolutionary way to manage and transact money through WhatsApp by creating digital wallets and facilitating a seamless transaction system via messages.
 
 ## Description
-This was a project buil for the EthOnline 2023 hackathon. It wond a price by Scroll
-https://ethglobal.com/showcase/wasup-wallet-kyzze
-Y participate in the smart contrac building and inplementacion with the nest.js backend
+This was a project buil for the EthOnline 2023 hackathon. It wond a price by Scroll <br/>
+https://ethglobal.com/showcase/wasup-wallet-kyzze<br/>
+Yo participate in the smart contrac building and inplementacion with the nest.js backend<br/>
 
 ## the proyect
 
