@@ -3,10 +3,18 @@
 </p>
 
 # Whats'Up Wallet
+![Static Badge](https://img.shields.io/badge/Nes.js-red?logo=Nest.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-darkgreen?logo=Node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-yellow)
 
 A revolutionary way to manage and transact money through WhatsApp by creating digital wallets and facilitating a seamless transaction system via messages.
 
 ## Description
+This was a project buil for the EthOnline 2023 hackathon. It wond a price by Scroll
+https://ethglobal.com/showcase/wasup-wallet-kyzze
+Y participate in the smart contrac building and inplementacion with the nest.js backend
+
+## the proyect
 
 Embrace the ease of managing and transacting money right through your WhatsApp with Whats'Up Wallet! Our app is designed to revolutionize the way you handle your finances by integrating seamless wallet creation and transaction management via WhatsApp. With Whats'Up Wallet, you get your own secure wallet to store, send, and receive money effortlessly. Engage in transactions with just a simple message. Whether you're splitting bills, sharing costs, or just need a friendly and straightforward way to manage your finances, Whats'Up Wallet simplifies it all. Our robust transaction system ensures your money is handled safely while offering you a convenient and intuitive platform. Get on board with Whats'Up Wallet, where your finances are just a message away!
 
